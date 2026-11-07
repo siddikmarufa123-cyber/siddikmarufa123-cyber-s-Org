@@ -1,0 +1,6 @@
+{
+  "name": "ProCoder BD - Enterprise LMS & EdTech Platform",
+  "description": "বাংলাদেশের শীর্ষস্থানীয় লার্নিং প্ল্যাটফর্ম ও পাওয়ারফুল অ্যাডমিন প্যানেল - লাইভ কোর্স ম্যানেজমেন্ট, অটোমেটেড পেমেন্ট (bKash/Nagad), স্টুডেন্ট ড্যাশবোর্ড এবং ভিডিও প্রোটেকশন সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
